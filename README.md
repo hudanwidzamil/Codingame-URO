@@ -9,3 +9,4 @@ Tugas programming sekuro 2019 (cakru 11).
 
 
 ### Strategi dalam memainkan game "Platinum Rift - Episode 2"
+Strateginya adalah dengan mencari tempat berpindah bagi pod yaitu menggunakan `move` dan memilihnya menggunakan `random`.
