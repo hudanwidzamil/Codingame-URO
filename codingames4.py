@@ -67,9 +67,8 @@ while True:
     for i in range(len(pods)):
         availablemove=random.choice(move(pods[i][0]))
         print(str(pods[i][1])+" "+str(pods[i][0])+" "+str(availablemove))
-                #print(str(pods_p0[i])+" "+str(pods[i])+" "+str(max(availablemove)))
+               
            
-   
     # first line for movement commands, second line no longer used (see the protocol in the statement for details)
     print("WAIT")
     #print("WAIT")
